@@ -23,3 +23,6 @@ Once you linked to your github, then you can deploy on heroku.
 
 Here is the screenshot:
 <img src='https://github.com/owen31302/HelloWorldOnHeroku/blob/master/ReadmeFiles/ScreenShot.png?raw=true' title='screen shot on heroku' width='' alt='screen shot on heroku' />
+
+### How to fork your own repository on GitHub
+https://deanmalone.net/post/how-to-fork-your-own-repo-on-github/
